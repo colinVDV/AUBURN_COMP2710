@@ -1,0 +1,36 @@
+Script started on 2020-11-19 17:54:24-06:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;colin@colin-VirtualBox: ~/Desktop/ProjectFive[01;32mcolin@colin-VirtualBox[00m:[01;34m~/Desktop/ProjectFive[00m$ ls
+Project5.pdf                   project5_VandeVijvere_ccv0004.cpp
+[0m[01;32mproject5_VandeVijvere_ccv0004[0m  project5_VandeVijvere_ccv0004.script
+]0;colin@colin-VirtualBox: ~/Desktop/ProjectFive[01;32mcolin@colin-VirtualBox[00m:[01;34m~/Desktop/ProjectFive[00m$ ./project5_VandeVijvere_ccv0004
+Banner id: 904095402
+producer produce item 7
+consumer consume item 7
+producer produce item 14
+consumer consume item 14
+producer produce item 21
+consumer consume item 21
+producer produce item 28
+consumer consume item 28
+producer produce item 35
+consumer consume item 35
+producer produce item 42
+consumer consume item 42
+producer produce item 49
+consumer consume item 49
+producer produce item 56
+consumer consume item 56
+producer produce item 63
+consumer consume item 63
+producer produce item 70
+consumer consume item 70
+]0;colin@colin-VirtualBox: ~/Desktop/ProjectFive[01;32mcolin@colin-VirtualBox[00m:[01;34m~/Desktop/ProjectFive[00m$ ld[Ks
+Project5.pdf                   project5_VandeVijvere_ccv0004.cpp
+[0m[01;32mproject5_VandeVijvere_ccv0004[0m  project5_VandeVijvere_ccv0004.script
+]0;colin@colin-VirtualBox: ~/Desktop/ProjectFive[01;32mcolin@colin-VirtualBox[00m:[01;34m~/Desktop/ProjectFive[00m$ ls
+Project5.pdf                   project5_VandeVijvere_ccv0004.cpp
+[0m[01;32mproject5_VandeVijvere_ccv0004[0m  project5_VandeVijvere_ccv0004.script
+]0;colin@colin-VirtualBox: ~/Desktop/ProjectFive[01;32mcolin@colin-VirtualBox[00m:[01;34m~/Desktop/ProjectFive[00m$ exit
+exit
+
+Script done on 2020-11-19 17:59:03-06:00 [COMMAND_EXIT_CODE="0"]
